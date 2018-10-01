@@ -1,0 +1,10 @@
+200=No Error
+401.22=Bla bla bla
+401.23=Bla bla bla
+401.201=OBla bla bla
+401.202=OTBla bla bla
+401.203=InvBla bla bla
+403.13=CarBla bla bla
+403.14=CaBla bla bla
+403.15=Bla bla blaible
+403.16=Bla bla blapired
